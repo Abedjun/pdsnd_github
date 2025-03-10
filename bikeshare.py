@@ -10,16 +10,16 @@ DATA = {
 }
 
 # Convert data to DataFrame
-df = pd.DataFrame(DATA)
+dff = pd.DataFrame(DATA)
 
 # Function to calculate total trip duration
 def total_trip_duration():
-    total_duration = df['Trip Duration'].sum()
+    total_duration = dff['Trip Duration'].sum()
     print(f"Total Trip Duration: {total_duration} minutes")
 
 # Function to find the most frequent start station
 def most_frequent_start_station():
-    frequent_station = df['Start Station'].mode()[0]
+    frequent_station = dff['Start Station'].mode()[0]
     print(f"Most Frequent Start Station: {frequent_station}")
 
 if __name__ == "__main__":
