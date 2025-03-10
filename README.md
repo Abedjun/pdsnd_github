@@ -17,3 +17,6 @@ data.csv
 Udacity's GitHub repository: https://github.com/udacity/pdsnd_github
 This project was inspired by various Python data analysis tutorials and the Udacity course materials.
 
+### License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
