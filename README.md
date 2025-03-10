@@ -4,14 +4,16 @@
 Include the date you created this project and README file.
 
 ### Project Title
-Replace the Project Title
+BikeShare Python Project
 
 ### Description
-Describe what your project is about and what it does
+This project helps in analyzing bike share data to gain insights on popular locations and trip durations.
 
 ### Files used
-Include the files used
+bikeshare.py
+data.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Udacity's GitHub repository: https://github.com/udacity/pdsnd_github
+This project was inspired by various Python data analysis tutorials and the Udacity course materials.
 
